@@ -20,3 +20,7 @@ Materiales utilizados:
 - 2 cables caiman-caiman
 - Protoboard
 
+
+Autor:
+Reyes Solis Miguel Angel
+
